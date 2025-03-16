@@ -11,10 +11,18 @@
     ],
     "Discovery": [
         {
+            "ID": 1,
             "Thumbnail": "https://ai-api.finpal.com.vn/api/v1/file/uploads/short/Thumbnail_08032025_0.png",
             "Description": "Sự kiện hợp tác Finpal x UEL",
             "Link": "https://www.finpal.com.vn/goi-thanh-vien",
             "Order": 1
+        },
+        {
+            "ID": 2,
+            "Thumbnail": "https://ai-api.finpal.com.vn/api/v1/file/uploads/short/Thumbnail_08032025_0.png",
+            "Description": "Ra mắt sản phẩm",
+            "Link": "https://www.finpal.com.vn/goi-thanh-vien",
+            "Order": 2
         }
     ]
 }
